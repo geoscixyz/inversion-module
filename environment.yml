@@ -1,0 +1,19 @@
+name: inversion-module
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - Pillow
+  - ipywidgets>=0.6.0
+  - requests
+  - discretize
+  - pymatsolver >=0.1.1
+  - simpeg>=0.14.0
+  - pip
+  - pip:
+    - geosci-labs
+
