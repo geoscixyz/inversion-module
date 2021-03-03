@@ -15,5 +15,5 @@ dependencies:
   - simpeg>=0.14.0
   - pip
   - pip:
-    - geoscilabs
+    - geoscilabs>=0.2.2
 
